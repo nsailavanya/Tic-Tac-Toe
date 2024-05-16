@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "react-phone-number-input": "^3.4.1",
+    "react-qr-code": "^2.0.12"
+  }
+}
